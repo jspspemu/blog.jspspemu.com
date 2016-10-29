@@ -13,9 +13,7 @@ blogger_orig_url: http://blog.jspspemu.com/2015/05/next-version-huge-graphics-sp
 ---
 
 I have been working on some optimizations. Basically I have mostly rewritten the gpu engine and have improved a lot the performance. In a i5@2.2ghz with a Intel HD Graphics 5000, Valhalla Knights works most of the time at full speed. Also I have been working on a ffmpeg based media engine for decoding audio and video (WIP).  
-[![](/img/vk_fullspeed.png)](/img/vk_fullspeed.png)
-
-More information after the jump.
+![]({{ '/img/vk_fullspeed.png' | link }})
 
 <!--more-->
 

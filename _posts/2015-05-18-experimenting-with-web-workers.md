@@ -20,8 +20,6 @@ So open web's workers, actionscript workers or dart's isolates try to avoid most
 
 Even when each worker can work on its own, and emit messages whenever they want. It is always preferred to have a main worker and send tasks to others, because of simplicity. Ideally you are using workers for intensive tasks like decompression, decoding, and so on. MediaEngine is ideally for this. You can decode audio and video there in a request/response/task fashion. Also you can do that for crypto and zlib compression.  
 
-Much more info after the jump.  
-
 <!--more-->
 
 ### Complexity:

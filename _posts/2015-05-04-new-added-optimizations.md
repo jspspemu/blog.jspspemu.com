@@ -23,18 +23,18 @@ In chrome the improvement is not that huge like with firefox. Firefox was perfor
 Also I have added a new benchmark with this (the v2): [http://benchmark.jspspemu.com/v2/](http://benchmark.jspspemu.com/v2/)
 You can still access the previous (v1): [http://benchmark.jspspemu.com/v1/](http://benchmark.jspspemu.com/v1/)
 
-![](/img/jspspemu_chrome_opt.png)
+![]({{ '/img/jspspemu_chrome_opt.png'|link }})
 
 <!--more-->
 
-![](/img/jspspemu_ie11_preopt.png)
-![](/img/jspspemu_ie11_opt.png)
+![]({{ '/img/jspspemu_ie11_preopt.png'|link }})
+![]({{ '/img/jspspemu_ie11_opt.png'|link }})
 
-![](/img/jspspemu_firefox_preopt.png)
-![](/img/jspspemu_firefox_opt.png)
+![]({{ '/img/jspspemu_firefox_preopt.png'|link }})
+![]({{ '/img/jspspemu_firefox_opt.png'|link }})
 
-![](/img/jspspemu_chrome_preopt.png)
-![](/img/jspspemu_chrome_opt.png)
+![]({{ '/img/jspspemu_chrome_preopt.png'|link }})
+![]({{ '/img/jspspemu_chrome_opt.png'|link }})
 
 And functions are something like this:
 
